@@ -3,9 +3,9 @@
 
 ## Requirements
 
-- Python 3.6
-- Django 3.1
-- Django REST Framework
+- Python 3
+- Django==3.2.9
+- Django REST Framework==3.12.4
 
 ## Installation
 After you cloned the repository, you want to create a virtual environment, so you have a clean python installation.
